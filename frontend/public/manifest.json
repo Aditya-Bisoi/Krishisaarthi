@@ -1,0 +1,22 @@
+{
+  "name": "KrishiSaarthi AI - Precision Agriculture",
+  "short_name": "KrishiSaarthi",
+  "description": "Satellite Imagery & Weather Smart Irrigation Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06090e",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
